@@ -1,5 +1,6 @@
 ShelfView
 =========
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-ShelfView-green.svg?style=flat)](https://android-arsenal.com/details/1/2848)
 
 Android application that allows a very easy-compatible Shelf View for smartphone and tablet.
 
